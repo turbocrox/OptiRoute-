@@ -15,9 +15,9 @@
 
 🔧 Instructions to Run
 
-    Install dependencies:
-    
 ```bash
+
+    Install dependencies:
 pip install folium openrouteservice
 ```
 
