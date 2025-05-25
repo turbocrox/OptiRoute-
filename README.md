@@ -12,26 +12,11 @@
 - Easy-to-edit coordinates for custom scenarios
 - Output as an HTML file you can open in any browser
 
-## 📁 Project Structure
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 🔧 Instructions to Run
 
     Install dependencies:
+    
 ```bash
 pip install folium openrouteservice
 ```
